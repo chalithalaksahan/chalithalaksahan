@@ -31,7 +31,14 @@ I'm an enthusiastic and dedicated learner in the world of software engineering, 
 </div>
 
 
-<hr>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
 
 
 📚 Currently Learning:
