@@ -34,8 +34,6 @@ I'm an enthusiastic and dedicated learner in the world of software engineering, 
 <br>
 <br>
 <br>
-<br>
-
 📚 Currently Learning:
 
 I'm on a quest to expand my knowledge and skills in software engineering. Currently, I'm exploring topics like AI And Machine Learning, and I'm excited to apply these learnings to my future projects.
