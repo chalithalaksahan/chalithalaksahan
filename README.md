@@ -56,8 +56,11 @@ I'm a passionate **Full-Stack Developer** with 6 months of hands-on experience i
     <img src="https://skillicons.dev/icons?i=git,css,discord,github,html,java,js,mysql,tailwind,vscode&perline=14" />
   </a>
 </p>
-### 🤝🏻 &nbsp;Connect with Me
-
+<div id="user-content-toc">
+  <ul align="center">
+    <summary><h2 style="display: inline-block">Connect with Me 🤝🏻</h2></summary>
+  </ul>
+</div>
 <p align="center">
 <a href=""><img src="https://img.shields.io/badge/-chalithalaksahan.com-3423A6?style=flat&logo=Google-Chrome&logoColor=white"/></a>
 <a href="https://www.linkedin.com/in/chalithalaksahan"><img src="https://img.shields.io/badge/-chalithalaksahan-0077B5?style=flat&logo=Linkedin&logoColor=white"/></a>
