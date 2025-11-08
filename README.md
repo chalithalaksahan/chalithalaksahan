@@ -1,35 +1,73 @@
-👋 Hello, I'm Chalitha Laksahan!
+<!--horizontal divider(gradiant)-->
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
-🚀 Aspiring Software Engineer 
-🔍 About Me:
+<!--h1 without bottom border-->
+<div id="user-content-toc">
+  <ul align="center">
+    <summary><h1 style="display: inline-block">Hi 👋, I'm Chalitha</h1></summary>
+  </ul>
+</div>
 
-📚 Eager Learner: I'm constantly learning and improving my skills. I thrive in challenging environments and enjoy solving complex problems through innovative solutions.
-
-### 🔨 Languages and Tools:
-
-<br>
-<br>
-<br>
-📚 Currently Learning:
-
-I'm on a quest to expand my knowledge and skills in software engineering.
-
-🚀 Looking Ahead:
-
-I'm seeking an internship opportunity to further enhance my skills, work with a dynamic team, and contribute to impactful projects. I'm eager to collaborate, learn, and grow as a software engineer.
-
-📫 Let's Connect:
-
-I'm open to collaborations, mentorship, and new opportunities. Feel free to reach out to me through GitHub or connect with me on [LinkedIn](https://www.linkedin.com/in/chalitha-laksahan) to explore how we can work together to create amazing tech solutions.
-
-
-
-### 📊 Github Statas
+<!--- stats & Trophy (start) -->
+<p align="center">
+  <!--- stats (start) -->
+<table align="center">
+<tr border="none">
+<td width="50%" align="center">
   
+  <img  align="center"  src="https://github-readme-stats.vercel.app/api?username=chalithalaksahan&theme=dark&show_icons=true&count_private=true" />
+  <br></br>
+  <img  title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Mark streak" src="https://github-readme-streak-stats.herokuapp.com/?user=chalithalaksahan&theme=dark&hide_border=false" /> 
+</td>
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=chalithalaksahan&layout=compact)
+<p align="center">
+  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com/?lines=Aspring%20Software%20Engineer;Always%20learning%20new%20things;Feel%20free%20to%20look%20around%20%F0%9F%91%80;Reach%20out%20if%20you%20need%20help!%20%F0%9F%92%AC&;ACfont=Fira%20Code&center=true&width=440&height=45"></a>
+</p>
 
+<p align = "center">
+	<img src = "https://komarev.com/ghpvc/?username=chalithalaksahan&style=plastic&color=blueviolet" alt = "Profile Views"/>
+</p>
+<center>
+I'm a Full Stack Developer with 6 months hands-on experience designing, developing and implementing applications and solutions using a range of technologies and programming languages.
+<br />
 
+I'm currently based in **[Negombo, Sri Lanka.](https://www.google.com/maps/place/Negombo/@7.1894411,79.7758509,12z/data=!3m1!4b1!4m6!3m5!1s0x3ae2ee9c6bb2f73b:0xa51626e908186f3e!8m2!3d7.2055208!4d79.8512562!16zL20vMGJ6dzJj?entry=ttu&g_ep=EgoyMDI1MTEwNC4xIKXMDSoASAFQAw%3D%3D)**
 
-Thank you for visiting my GitHub profile, and I look forward to connecting with you!
+<br />
+I love learning new techs and using new tools. 
+<br />
+<br />
 
+Please feel free to clone/fork projects, raise issues and submit PRs if you think something could be better.<br />
+Ask me anything or <a href="mailto:spclaksahan@gmail.com"><b>send me an email</b></a>.
+<br />
+<br />
+</center>
+<td width="50%" align="center">
+
+  <img  align="center"  src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=chalithalaksahan&theme=dark&hide_border=false&no-bg=true&no-frame=true&langs_count=10"/>
+  
+  </td>
+</tr>
+</table>
+<!--- stats (end) -->
+<div id="user-content-toc">
+  <ul align="center">
+    <summary><h2 style="display: inline-block">Technologies That I Know👨🏻‍💻</h2></summary>
+  </ul>
+</div>
+<!--tech stack icons-->
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=git,css,discord,github,html,java,js,mysql,tailwind,vscode&perline=14" />
+  </a>
+</p>
+### 🤝🏻 &nbsp;Connect with Me
+
+<p align="center">
+<a href=""><img src="https://img.shields.io/badge/-chalithalaksahan.com-3423A6?style=flat&logo=Google-Chrome&logoColor=white"/></a>
+<a href="https://www.linkedin.com/in/chalithalaksahan"><img src="https://img.shields.io/badge/-chalithalaksahan-0077B5?style=flat&logo=Linkedin&logoColor=white"/></a>
+<a href="mailto:spclaksahan@gmail.com"><img src="https://img.shields.io/badge/-chalithalaksahan-D14836?style=flat&logo=Gmail&logoColor=white"/></a>
+<a href="https://www.instagram.com/chalithalaksahan"><img src="https://img.shields.io/badge/-chalithalaksahan-E4405F?style=flat&logo=Instagram&logoColor=white"/></a>
+<a href="https://www.facebook.com/chalithalaksahan"><img src="https://img.shields.io/badge/-chalithalaksahan-1877F2?style=flat&logo=Facebook&logoColor=white"/></a>
+</p>
