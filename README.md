@@ -24,9 +24,7 @@
   <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com/?lines=Aspring%20Software%20Engineer;Always%20learning%20new%20things;Feel%20free%20to%20look%20around%20%F0%9F%91%80;Reach%20out%20if%20you%20need%20help!%20%F0%9F%92%AC&;ACfont=Fira%20Code&center=true&width=440&height=45"></a>
 </p>
 
-<p align = "center">
-	<img src = "https://komarev.com/ghpvc/?username=chalithalaksahan&style=plastic&color=blueviolet" alt = "Profile Views"/>
-</p>
+
 <center>
 I'm a Full Stack Developer with 6 months hands-on experience designing, developing and implementing applications and solutions using a range of technologies and programming languages.
 <br />
@@ -70,4 +68,7 @@ Ask me anything or <a href="mailto:spclaksahan@gmail.com"><b>send me an email</b
 <a href="mailto:spclaksahan@gmail.com"><img src="https://img.shields.io/badge/-chalithalaksahan-D14836?style=flat&logo=Gmail&logoColor=white"/></a>
 <a href="https://www.instagram.com/chalithalaksahan"><img src="https://img.shields.io/badge/-chalithalaksahan-E4405F?style=flat&logo=Instagram&logoColor=white"/></a>
 <a href="https://www.facebook.com/chalithalaksahan"><img src="https://img.shields.io/badge/-chalithalaksahan-1877F2?style=flat&logo=Facebook&logoColor=white"/></a>
+</p>
+<p align = "center">
+	<img src = "https://komarev.com/ghpvc/?username=chalithalaksahan&style=plastic&color=blueviolet" alt = "Profile Views"/>
 </p>
