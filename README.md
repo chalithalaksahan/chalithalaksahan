@@ -53,7 +53,7 @@ I'm a passionate **Full-Stack Developer** with 6 months of hands-on experience i
 <!--tech stack icons-->
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,css,discord,github,html,java,js,mysql,tailwind,vscode&perline=14" />
+    <img src="https://skillicons.dev/icons?i=git,css,discord,github,html,java,js,mysql,tailwind,bootstrap,vscode&perline=14" />
   </a>
 </p>
 <div id="user-content-toc">
