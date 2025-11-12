@@ -70,4 +70,5 @@ I'm a passionate **Full-Stack Developer** with 6 months of hands-on experience i
 </p>
 <p align = "center">
 	<img src = "https://komarev.com/ghpvc/?username=chalithalaksahan&style=plastic&color=blueviolet" alt = "Profile Views"/>
+	
 </p>
