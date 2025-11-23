@@ -62,7 +62,7 @@ I'm a passionate **Full-Stack Developer** with 6 months of hands-on experience i
   </ul>
 </div>
 <p align="center">
-<a href=""><img src="https://img.shields.io/badge/-chalithalaksahan.com-3423A6?style=flat&logo=Google-Chrome&logoColor=white"/></a>
+<a href="https://chalithalaksahan.github.io/portfolio-web/"><img src="https://img.shields.io/badge/-chalithalaksahan.com-3423A6?style=flat&logo=Google-Chrome&logoColor=white"/></a>
 <a href="https://www.linkedin.com/in/chalitha-laksahan"><img src="https://img.shields.io/badge/-chalithalaksahan-0077B5?style=flat&logo=Linkedin&logoColor=white"/></a>
 <a href="mailto:spclaksahan@gmail.com"><img src="https://img.shields.io/badge/-chalithalaksahan-D14836?style=flat&logo=Gmail&logoColor=white"/></a>
 <a href="https://www.instagram.com/chalitha_laksahan"><img src="https://img.shields.io/badge/-chalithalaksahan-E4405F?style=flat&logo=Instagram&logoColor=white"/></a>
