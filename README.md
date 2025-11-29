@@ -39,7 +39,6 @@ I'm a passionate **Full-Stack Developer** with 6 months of hands-on experience i
 
 <td width="50%" align="center">
 
-  <img  align="center"  src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=chalithalaksahan&theme=dark&hide_border=false&no-bg=true&no-frame=true&langs_count=10"/>
   
   </td>
 </tr>
