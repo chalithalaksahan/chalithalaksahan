@@ -12,10 +12,11 @@
 <p align="center">
   <!--- stats (start) -->
 
-  <br></br>
-  <img  title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Mark streak" src="https://github-readme-streak-stats.herokuapp.com/?user=chalithalaksahan&theme=dark&hide_border=false" /> 
 
 
+<p align="center">
+  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com/?lines=Aspring%20Software%20Engineer;Always%20learning%20new%20things;Feel%20free%20to%20look%20around%20%F0%9F%91%80;Reach%20out%20if%20you%20need%20help!%20%F0%9F%92%AC&;ACfont=Fira%20Code&center=true&width=440&height=45"></a>
+</p>
 
 
 
@@ -30,9 +31,8 @@ I'm a passionate **Full-Stack Developer** with 6 months of hands-on experience i
 
 💬 Ask me anything or <a href="mailto:spclaksahan@gmail.com"><b>send me an email</b></a>.
 
-<p align="center">
-  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com/?lines=Aspring%20Software%20Engineer;Always%20learning%20new%20things;Feel%20free%20to%20look%20around%20%F0%9F%91%80;Reach%20out%20if%20you%20need%20help!%20%F0%9F%92%AC&;ACfont=Fira%20Code&center=true&width=440&height=45"></a>
-</p>
+  <br></br>
+  <img align="center" title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Mark streak" src="https://github-readme-streak-stats.herokuapp.com/?user=chalithalaksahan&theme=dark&hide_border=false" /> 
 
 <!--- stats (end) -->
 <div id="user-content-toc">
