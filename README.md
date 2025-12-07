@@ -32,8 +32,9 @@ I'm a passionate **Full-Stack Developer** with 6 months of hands-on experience i
 💬 Ask me anything or <a href="mailto:spclaksahan@gmail.com"><b>send me an email</b></a>.
 
   <br></br>
-  <img align="center" title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Mark streak" src="https://github-readme-streak-stats.herokuapp.com/?user=chalithalaksahan&theme=dark&hide_border=false" /> 
-
+ <p align="center"> 
+  <img  title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Mark streak" src="https://github-readme-streak-stats.herokuapp.com/?user=chalithalaksahan&theme=dark&hide_border=false" /> 
+ </p>
 <!--- stats (end) -->
 <div id="user-content-toc">
   <ul align="center">
