@@ -11,7 +11,10 @@
 <!--- stats & Trophy (start) -->
 <p align="center">
   <!--- stats (start) -->
-
+<p align = "center">
+	<img src = "https://komarev.com/ghpvc/?username=chalithalaksahan&style=plastic&color=blueviolet" alt = "Profile Views"/>
+	
+</p>
 
 
 <p align="center">
